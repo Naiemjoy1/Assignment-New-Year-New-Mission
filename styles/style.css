@@ -333,19 +333,20 @@ font-weight: 500;
 /* width: 1068px; */
 }
 
-.img1{
+/* holiday banner */
+.img-box{
   position: relative;
 
 }
-.img2{
+.img-rectangle{
   position: absolute;
   align-items: end;
 
 }
-.img3{
+.img-girl{
   position: absolute;
 }
-.img4{
+.img-50{
 position: relative;
 }
 
@@ -422,14 +423,14 @@ font-weight: 400;
 
 .subscribe-input{
   padding: 20px;
-  border-top-left-radius: 20px;
-  border-bottom-left-radius: 20px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
 }
 
 .subscribe-button{
   background-color: #F00;
-  border-bottom-right-radius: 20px;
-  border-top-right-radius: 20px;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
 }
 /* .subscribe-box-form{
   padding: 10px;
