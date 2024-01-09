@@ -283,7 +283,8 @@ width: 276px;
 color: #7d7a82;
 font-size: 20px;
 font-weight: 400;
-line-height: 32px;
+line-height: normal;
+padding: 0;
 
 }
 
@@ -405,6 +406,7 @@ font-weight: 400;
   background-color: rgba(255, 0, 0, 0.05);
   text-align: center;
   padding: 30px;
+  border-radius: 16px;
 }
 
 /* .subscribe-container{
@@ -414,8 +416,20 @@ font-weight: 400;
 .subscribe-box{
   display: flex;
   text-align: center;
-  width: 100%;
+  width: 20%;
   margin: auto;
+}
+
+.subscribe-input{
+  padding: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.subscribe-button{
+  background-color: #F00;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
 }
 /* .subscribe-box-form{
   padding: 10px;
