@@ -407,22 +407,21 @@ font-weight: 400;
   padding: 30px;
 }
 
-.subscribe-container{
+/* .subscribe-container{
   align-items: center;
-}
+} */
 
 .subscribe-box{
   display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 648px;
-  height: 72px;
+  text-align: center;
+  width: 100%;
+  margin: auto;
 }
-.subscribe-box-form{
+/* .subscribe-box-form{
   padding: 10px;
   border-radius: 5%;
   background: #FFF;
-}
+} */
 
 .subscribe-main-text{
 color: #070211;
