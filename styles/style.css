@@ -148,12 +148,18 @@ body{
   .informaions{
     width: 1320px;
     height: 482px;
-    flex-shrink: 0;
+    /* flex-shrink: 0; */
     background-color: #ffe9e9;
     /* display: flex; */
     /* justify-content: space-around; */
     text-align: center;
-    
+    /* padding: 130px; */
+    border-radius: 10px;
+  }
+
+  .informaions-container{
+    /* display: flex;
+    justify-content: space-around; */
   }
 
   .informaions-details{
