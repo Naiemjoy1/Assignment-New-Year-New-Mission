@@ -334,20 +334,59 @@ font-weight: 500;
 }
 
 /* holiday banner */
-.img1{
+.holiday-banner-box{
+  width:90%;
+  margin:auto;
   position: relative;
-
 }
+
+.holiday-banner-box-img{
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.holiday-banner{
+  
+  width: 90%;
+  margin: auto;
+  margin-top: 5vh;
+}
+
+.holiday-banner-img1{
+  width: 50%;
+  text-align: center;
+}
+
+.holiday-banner-box-img{
+  width: 400px;
+
+ position: absolute;
+z-index: 10;
+}
+
 .img2{
-  position: absolute;
-  align-items: end;
 
 }
-.img3{
-  position: absolute;
+
+.background-image {
+  width: 100%;
+  height: auto;
 }
+
+.overlay-image {
+  position: absolute;
+  top: 5;
+  left: 0;
+  width: 500px;
+  margin-top: -300px;
+  margin-left: 100px;
+  /* Optionally, use opacity to make the overlay semi-transparent */
+  
+}
+
 .img4{
-position: relative;
+  float: right;
 }
 
 /* holiday-banner */
