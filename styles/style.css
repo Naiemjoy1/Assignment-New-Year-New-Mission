@@ -205,6 +205,129 @@ button{
     line-height: normal;
     text-transform: uppercase;
 }
+/* announcement */
+.announcement{
+    /* color: #070211; */
+}
+
+.announcement-left{
+    /* color: #070211; */
+}
+
+.announcement-offer{
+    padding: 24px 29px;
+}
+
+.announcement-coming-soon{
+
+}
+
+.announcement-description{
+
+}
+
+.announcement-image{
+
+}
+
+.announcement-right{
+
+}
+
+.announcement-year{
+
+}
+
+.announcement-right-description{
+
+}
+
+.announcement-right-image{
+
+}
+
+/* holiday */
+.holiday{
+
+}
+
+.holiday-title{
+
+}
+
+.holiday-functional{
+
+}
+
+.holiday-sale{
+
+}
+
+.holiday-description{
+
+}
+
+/* holiday-banner */
+
+
+.portfolio{
+
+}
+
+.portfolio-container{
+
+}
+
+.portfolio-text{
+
+}
+
+.portfolio-gift{
+
+}
+
+.portfolio-main{
+
+}
+
+.portfolio-description{
+
+}
+
+.portfolio-image-row-top{
+
+}
+
+.portfolio-image-row-bottom{
+
+}
+
+/* subscribe */
+.subscribe{
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    background-color: rgba(255, 0, 0, 0.05);
+}
+
+.subscribe-container{
+    align-items: center;
+}
+
+.subscribe-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 648px;
+    height: 72px;
+}
+.subscribe-box-form{
+    padding: 10px;
+    border-radius: 5%;
+    background: #FFF;
+}
+
+
 
 /* footer section */
 .footer{
