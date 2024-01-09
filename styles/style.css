@@ -334,19 +334,19 @@ font-weight: 500;
 }
 
 /* holiday banner */
-.img-box{
+.img1{
   position: relative;
 
 }
-.img-rectangle{
+.img2{
   position: absolute;
   align-items: end;
 
 }
-.img-girl{
+.img3{
   position: absolute;
 }
-.img-50{
+.img4{
 position: relative;
 }
 
