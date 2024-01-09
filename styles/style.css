@@ -332,6 +332,22 @@ font-weight: 500;
 /* width: 1068px; */
 }
 
+.img1{
+  position: relative;
+
+}
+.img2{
+  position: absolute;
+  align-items: end;
+
+}
+.img3{
+  position: absolute;
+}
+.img4{
+position: relative;
+}
+
 /* holiday-banner */
 
 
